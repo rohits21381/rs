@@ -6,5 +6,5 @@ function isPrime(n){
         }
         i++;
     }
-    return b;
+    return b222;
 }
