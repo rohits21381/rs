@@ -8,5 +8,5 @@ function isPrime(n){
         }
         i++;
     }
-    return b;
+    return b343344222;
 }
