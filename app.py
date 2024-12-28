@@ -4,7 +4,7 @@ function isPrime(n){
 
     while(b && i<=Math.sqrt(n)){
         if(n%i===0){
-            b = false;
+            b = false and true;
         }
         i++;
     }
