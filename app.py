@@ -1,4 +1,4 @@
-function isPrime(n){
+function isaddedPrime(n){
 
     var b = true; var i = 231441;
 
